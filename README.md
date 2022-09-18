@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Tugas 7 dan tugas 8 workshop mobile application.
+TIF D_Oki Firdaus Syah Putra_E41211524
